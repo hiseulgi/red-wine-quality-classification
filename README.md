@@ -1,7 +1,7 @@
-# Pedictive Analytics: Red Wine Quality Study Case
+# Predictive Analytics: Red Wine Quality Study Case
 
 ## Daftar Isi
-- [Pedictive Analytics: Red Wine Quality Study Case](#pedictive-analytics-red-wine-quality-study-case)
+- [Predictive Analytics: Red Wine Quality Study Case](#pedictive-analytics-red-wine-quality-study-case)
   - [Daftar Isi](#daftar-isi)
   - [Problem Domain](#problem-domain)
   - [Business Understanding](#business-understanding)
