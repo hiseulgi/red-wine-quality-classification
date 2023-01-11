@@ -272,7 +272,7 @@ Confusion Matrix HardVotingClassifier:
 Gambar 6. Rumus pada Metrics di Classification Report
 </br>
 </br>
-Berikut adalah CLassification Report dari model yang telah dilatih.
+Berikut adalah Classification Report dari model yang telah dilatih.
 ```
 Classification Report ExtraTreesClassifier:
                precision    recall  f1-score   support
