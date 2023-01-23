@@ -32,7 +32,7 @@ Berdasarkan permasalahan tersebut, penulis ingin membuat sebuah model *machine l
 ## Business Understanding
 ### Problem Statement
 Berdasarkan *problem domain* di atas, maka diperoleh *problem statement* sebagai berikut:
-- Apa saja yang perlu dilakukan dalam *data preparation *untuk membuat model *machine learning* yang baik?
+- Apa saja yang perlu dilakukan dalam *data preparation* untuk membuat model *machine learning* yang baik?
 - Bagaimana cara memilih model *machine learning* yang tepat untuk memprediksi kualitas dari sebuah *wine*?
 
 ### Goals
