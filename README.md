@@ -112,6 +112,7 @@ Beberapa informasi yang dapat diperoleh dari beberapa gambar di atas adalah seba
 
 ### Multi-Variate Analysis
 ![Heatmap dari Korelasi Fitur-Fitur](/img/02_heatmap.png)
+
 Gambar 4. Heatmap dari Korelasi Fitur-Fitur
 
 Beberapa informasi yang dapat diperoleh dari gambar di atas adalah sebagai berikut:
